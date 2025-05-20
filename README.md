@@ -68,7 +68,10 @@ This project focuses on cleaning and exploring a real-world dataset of global te
 ├── sql_eda_queries.sql           # EDA queries for trend exploration
 ├── README.md                     # Project documentation (this file)
 
-## 👨‍💻 Author
+
+---
+
+## 👨‍💻 Author 
 
 Created by [aftabaziz01](https://github.com/aftabaziz01)
 
